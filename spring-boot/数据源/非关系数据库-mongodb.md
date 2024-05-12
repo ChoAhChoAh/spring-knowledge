@@ -140,10 +140,10 @@ public class XXXApplicationTest {
 
 
 ### 5.参考
-linux安装mongodb: https://blog.csdn.net/a342874650/article/details/133859284
-                 https://www.cnblogs.com/hmwh/p/13795262.html
-mongodb安全： https://blog.csdn.net/kk185800961/article/details/45619863
-             https://blog.csdn.net/Innocence_0/article/details/136375030
-studio 3t官网：https://robomongo.org/
-sutdio 3t使用：https://blog.csdn.net/weixin_39999535/article/details/81383196
+linux安装mongodb: https://blog.csdn.net/a342874650/article/details/133859284  
+                 https://www.cnblogs.com/hmwh/p/13795262.html  
+mongodb安全： https://blog.csdn.net/kk185800961/article/details/45619863  
+             https://blog.csdn.net/Innocence_0/article/details/136375030  
+studio 3t官网：https://robomongo.org/  
+sutdio 3t使用：https://blog.csdn.net/weixin_39999535/article/details/81383196  
 

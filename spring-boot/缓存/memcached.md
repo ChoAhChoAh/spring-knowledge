@@ -127,7 +127,7 @@ public class TestMemcache {
 ### 4.高级配置和运维（todo）
 
 ### 5.参考
-官方文档：https://github.com/memcached/memcached/wiki/Install
-扩展程序官网：https://pecl.php.net/package/memcache
-安装参考：https://www.cnblogs.com/chy123/p/8616496.html
-xmemcached java客户端：https://mvnrepository.com/artifact/com.googlecode.xmemcached/xmemcached/2.4.8
+官方文档：https://github.com/memcached/memcached/wiki/Install  
+扩展程序官网：https://pecl.php.net/package/memcache  
+安装参考：https://www.cnblogs.com/chy123/p/8616496.html  
+xmemcached java客户端：https://mvnrepository.com/artifact/com.googlecode.xmemcached/xmemcached/2.4.8  

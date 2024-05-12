@@ -231,11 +231,11 @@ rabbitmqctl set_permissions -p / test ".*" ".*" ".*"
 
 
 ### 5.参考
-erlang安装：https://blog.csdn.net/laterstage/article/details/131513793?spm=1001.2014.3001.5501
-rabbitmq安装：https://blog.csdn.net/laterstage/article/details/131522924
-5672端口非rabbitmq导致协议不匹配问题：https://groups.google.com/g/rabbitmq-discuss/c/dJEp9q5WnCI
-rabbitmq因为端口冲突启动失败：https://blog.csdn.net/u010402202/article/details/80026501
-rabbitmq的java客户端文档：https://www.rabbitmq.com/tutorials/tutorial-one-java
-rabbitmq链接账户失败：https://blog.csdn.net/leisure_life/article/details/78646211
-dpkg安装deb依赖缺失处理：https://www.cnblogs.com/horizonli/p/5179224.html
-rabbitmq创建账户： https://blog.csdn.net/Mr_Z2017512/article/details/136631454
+erlang安装：https://blog.csdn.net/laterstage/article/details/131513793?spm=1001.2014.3001.5501  
+rabbitmq安装：https://blog.csdn.net/laterstage/article/details/131522924  
+5672端口非rabbitmq导致协议不匹配问题：https://groups.google.com/g/rabbitmq-discuss/c/dJEp9q5WnCI  
+rabbitmq因为端口冲突启动失败：https://blog.csdn.net/u010402202/article/details/80026501  
+rabbitmq的java客户端文档：https://www.rabbitmq.com/tutorials/tutorial-one-java  
+rabbitmq链接账户失败：https://blog.csdn.net/leisure_life/article/details/78646211  
+dpkg安装deb依赖缺失处理：https://www.cnblogs.com/horizonli/p/5179224.html  
+rabbitmq创建账户： https://blog.csdn.net/Mr_Z2017512/article/details/136631454  

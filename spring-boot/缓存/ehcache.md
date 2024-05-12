@@ -88,7 +88,7 @@ public class DataService {
 
 
 ### 4.参考
-官方文档：https://www.ehcache.org/documentation/3.10
-springboot官方文档：https://docs.spring.io/spring-boot/docs/2.7.18/reference/pdf/spring-boot-reference.pdf#page=406&zoom=100,0,650
-配置springboot+ehcache：https://www.cnblogs.com/fishpro/p/spring-boot-study-ehcache.html
-springboot的缓存注解：https://blog.csdn.net/dreamhai/article/details/80642010
+官方文档：https://www.ehcache.org/documentation/3.10  
+springboot官方文档：https://docs.spring.io/spring-boot/docs/2.7.18/reference/pdf/spring-boot-reference.pdf#page=406&zoom=100,0,650  
+配置springboot+ehcache：https://www.cnblogs.com/fishpro/p/spring-boot-study-ehcache.html  
+springboot的缓存注解：https://blog.csdn.net/dreamhai/article/details/80642010  

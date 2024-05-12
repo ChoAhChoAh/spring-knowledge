@@ -213,12 +213,12 @@ https://www.elastic.co/guide/en/elasticsearch/client/java-api-client/7.17/no-suc
 可以到官网下载kibana：https://www.elastic.co/cn/downloads/kibana
 
 ### 5.参考
-访问elasticsearch服务报错：https://blog.csdn.net/qq_25086397/article/details/124749039
-客户端链接报错：https://www.cnblogs.com/rong-xu-drum/p/18133925
-其他参考：https://blog.csdn.net/qq_45036013/article/details/129448347
-安装配置：https://blog.csdn.net/cool_sec/article/details/124532757
-安装配置：https://blog.csdn.net/2401_83946224/article/details/137654056
-官网客户端链接报错参考：https://www.elastic.co/guide/en/elasticsearch/client/java-api-client/7.17/no-such-method-request-options.html
+访问elasticsearch服务报错：https://blog.csdn.net/qq_25086397/article/details/124749039  
+客户端链接报错：https://www.cnblogs.com/rong-xu-drum/p/18133925  
+其他参考：https://blog.csdn.net/qq_45036013/article/details/129448347  
+安装配置：https://blog.csdn.net/cool_sec/article/details/124532757  
+安装配置：https://blog.csdn.net/2401_83946224/article/details/137654056  
+官网客户端链接报错参考：https://www.elastic.co/guide/en/elasticsearch/client/java-api-client/7.17/no-such-method-request-options.html  
 
 
 ### 6.附录

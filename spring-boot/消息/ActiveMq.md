@@ -132,6 +132,6 @@ public class AmqListener {
 ### 4.高级配置（todo）
 
 ### 5.参考
-官方文档：https://activemq.apache.org/components/classic/documentation/getting-started#InstallationProcedureforUnix
-linux安装activemq：https://www.cnblogs.com/pinghengxing/p/12593547.html
-端口修改：https://cloud.tencent.com/developer/information/%E4%BD%BF%E7%94%A8%E7%89%B9%E5%AE%9AIP%E5%9C%B0%E5%9D%80%E9%85%8D%E7%BD%AEActiveMQ%205.16.0%20web%E6%8E%A7%E5%88%B6%E5%8F%B0-ask
+官方文档：https://activemq.apache.org/components/classic/documentation/getting-started#InstallationProcedureforUnix  
+linux安装activemq：https://www.cnblogs.com/pinghengxing/p/12593547.html  
+端口修改：https://cloud.tencent.com/developer/information/%E4%BD%BF%E7%94%A8%E7%89%B9%E5%AE%9AIP%E5%9C%B0%E5%9D%80%E9%85%8D%E7%BD%AEActiveMQ%205.16.0%20web%E6%8E%A7%E5%88%B6%E5%8F%B0-ask  
